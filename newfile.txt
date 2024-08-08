@@ -1,1 +1,3 @@
 "This is a new file with some content." 
+"Adding more content to the file." 
+"Feature branch content" 
